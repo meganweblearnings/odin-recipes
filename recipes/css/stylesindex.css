@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+    background-image: url("../img/notebook.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
